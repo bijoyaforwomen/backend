@@ -1,0 +1,21 @@
+# Default for all files
+* text=auto
+
+# Text files
+.gitignore text
+*.html text
+*.css text
+*.js text
+*.md text
+*.txt text
+*.csv text
+*.json text
+*.py text
+*.sh text
+*.cmd text
+
+# Binary files
+*.jpeg binary
+*.jpg binary
+*.png binary
+*.gif binary
